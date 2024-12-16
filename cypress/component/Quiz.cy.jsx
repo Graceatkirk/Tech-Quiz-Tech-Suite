@@ -1,3 +1,6 @@
+import React from 'react';
+import Quiz from '../../client/src/components/Quiz';
+
 describe('Quiz Component Tests', () => {
     beforeEach(() => {
       cy.fixture('questions.json').then((questions) => {
