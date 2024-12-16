@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "question": "What is React?",
+      "answers": ["Library", "Framework", "Language"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "What is MongoDB?",
+      "answers": ["Database", "Frontend Tool", "Testing Tool"],
+      "correct": 0
+    }
+  ]
+  
